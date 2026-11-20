@@ -155,7 +155,7 @@ All scripts under `scripts/` are pure Python 3 (zero third-party pip dependencie
 ```bash
 # 1. Clone this repository directly into your global Codex skills directory
 mkdir -p ~/.agents/skills
-git clone https://github.com/<your-username>/cyber-command-hive-apex.git ~/.agents/skills/cyber-command-hive-apex
+git clone https://github.com/thesinnersahil07/cyber-command-hive-apex.git ~/.agents/skills/cyber-command-hive-apex
 
 # (Alternative) If installing from the release ZIP archive:
 # unzip cyber-command-hive-apex.zip -d ~/.agents/skills/
